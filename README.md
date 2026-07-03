@@ -28,10 +28,10 @@ My work is centered on practical software: healthcare access, elderly care, huma
     <td width="58%">
       <h3>AI-Assisted Telemedicine Kiosk</h3>
       <p>
-        A rural healthcare software platform and kiosk planned to streamline the patient journey from ABHA-based identification to vital capture, symptom mapping, WebRTC consultation, and report generation.
+        Rural healthcare software and kiosk planned for end-to-end digital patient care.
       </p>
       <p>
-        Integrates Firebase-backed patient records, doctor verification workflows, QR-linked reports, multilingual access, and generative AI assistance for doctors with sensor input from MLX90614, MAX30102, ultrasonic measurement, and smart scale modules.
+        Integrates Firebase-backed (current) patient records, doctor verification workflows, QR-linked reports, multilingual access, and generative AI assistance for doctors with sensor input from MLX90614, MAX30102, ultrasonic measurement, and smart scale modules.
       </p>
       <p>
         <strong>Recognition:</strong> IEEE EPICS grant recipient, USD 2910. Latest source: EPICS project deck.
